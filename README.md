@@ -17,5 +17,5 @@ This project is licensed under the MIT licence.
 
 ## Results from end of 2021 to spring 2023
 
-![Broccoli prices over time](/path/to/broccoli_prices.png)
+![Broccoli prices over time](broccoli_prices.png)
 
