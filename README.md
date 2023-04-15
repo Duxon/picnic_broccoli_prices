@@ -15,7 +15,7 @@ This script allows you to plot the price of broccoli over time using receipt ema
 
 This project is licensed under the MIT licence.
 
-## Results from end of 2021 to spring 2023
+## Results from 2020 to spring 2023
 
 ![Broccoli prices over time](broccoli_prices.png)
 
