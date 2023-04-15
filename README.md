@@ -1,6 +1,6 @@
 # Broccoli Price Plotter
 
-This script allows you to plot the price of broccoli over time using receipt emails from the Dutch food delivery service Picnic. The script extracts the price and date information from the emails using regular expressions, and generates a plot using Matplotlib.
+This script allows you to plot the price of broccoli over time using receipt emails ("bonnetjes") from the Dutch food delivery service Picnic. The script extracts the price and date information from the emails using regular expressions, and generates a plot using Matplotlib.
 
 ## Usage
 
