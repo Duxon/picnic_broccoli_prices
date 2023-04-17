@@ -19,3 +19,6 @@ This project is licensed under the MIT licence.
 
 ![Broccoli prices over time](broccoli_prices.png)
 
+## Works also for other products. For example: chicory
+
+![Chicory prices over time](chicory_prices.png)
